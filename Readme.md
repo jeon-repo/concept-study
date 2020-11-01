@@ -65,19 +65,20 @@
 
 ### 인자(Parameter)
 - 함수 정의에 사용되는 변수
+- - -
     def function1(parameter):
         return 0
 해당식에서 사용된 변수 parameter를 인자 or 파라미터라고 함   
 ex) "function1에서 인자 parameter를 받았다" 처럼 사용
-
+- - -
 ### 인수(Argument)
 - 함수 호출에 사용되는 변수
+- - -
     def function2():
         num = 10
         result = function1(num)
         return result
 해당식에서 사용된 변수 num을 인수 or 아규먼트라고 함   
 ex) "function1에 인수 num을 넘겼다" 처럼 사용
-
 - - -
 - 틀린부분 혹은 문의: <jano.jeon@gmail.com>
